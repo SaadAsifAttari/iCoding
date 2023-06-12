@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand{
+    transition: .4s;
+}
+
+.navbar-brand:hover{
+    transform: rotate(-5deg);
+    font-size: 22px;
+    transition: .4s;
+    font-weight: bold;
+}
